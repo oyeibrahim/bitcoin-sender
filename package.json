@@ -1,0 +1,17 @@
+{
+  "name": "bitcoin-sender",
+  "version": "1.0.0",
+  "description": "Sending bitcoin using Blockcypher API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oyetunji Ibrahim Abiodun",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "bitcoinjs-lib": "^5.2.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
