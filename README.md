@@ -18,5 +18,3 @@ axios - for sending http request to Bockcypher API endpoints
 bitcoinjs-lib - bitcoin library for doing core bitcoin tasks like signing transaction
 
 Any other module is just for browser testing (express) or info hidding (dotenv)
-
-Contact me: oyetunjiibrahim@gmail.com
